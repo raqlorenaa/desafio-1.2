@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\bin\Debug\net6.0\sistemaodonto.exe
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\bin\Debug\net6.0\sistemaodonto.deps.json
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\bin\Debug\net6.0\sistemaodonto.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\bin\Debug\net6.0\sistemaodonto.dll
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\bin\Debug\net6.0\sistemaodonto.pdb
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.dll
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\refint\sistemaodonto.dll
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.pdb
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\sistemaodonto.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\SistemaOdonto\sistemaodonto\obj\Debug\net6.0\ref\sistemaodonto.dll

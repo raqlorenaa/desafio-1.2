@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raquel\\Documents\\GitHub\\SistemaOdonto\\sistemaodonto\\sistemaodonto.csproj",
+      "projectUniqueName": "C:\\Users\\Raquel\\Documents\\GitHub\\desafio-1.2\\sistemaodonto\\sistemaodonto.csproj",
       "projectName": "sistemaodonto",
-      "projectPath": "C:\\Users\\Raquel\\Documents\\GitHub\\SistemaOdonto\\sistemaodonto\\sistemaodonto.csproj",
+      "projectPath": "C:\\Users\\Raquel\\Documents\\GitHub\\desafio-1.2\\sistemaodonto\\sistemaodonto.csproj",
       "packagesPath": "C:\\Users\\Raquel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raquel\\Documents\\GitHub\\SistemaOdonto\\sistemaodonto\\obj\\",
+      "outputPath": "C:\\Users\\Raquel\\Documents\\GitHub\\desafio-1.2\\sistemaodonto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
